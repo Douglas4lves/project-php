@@ -22,7 +22,7 @@
     />
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="./css/style.css" />
     <script src="js/main.js"></script>
 
     <title>Lisboa Construtora</title>
